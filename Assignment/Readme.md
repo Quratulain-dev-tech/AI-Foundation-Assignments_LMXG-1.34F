@@ -41,7 +41,3 @@ The scraped data is cleaned and preprocessed before being stored in CSV files. T
 ## Purpose
 
 The main purpose of this project is to demonstrate efficient web scraping, HTML parsing, data preprocessing, file handling, and parallel processing using Python.
-
-## Author
-
-Quratulain-dev-tech

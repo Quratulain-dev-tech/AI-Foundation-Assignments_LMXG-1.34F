@@ -1,0 +1,16 @@
+
+===== K-MEANS =====
+Cluster 0: quarter, results, financial results, earnings, quarter financial, financial, quarter earnings, quarter results
+Cluster 1: ai, says, new, china, announces, trump, data, million
+
+===== DBSCAN =====
+Noise (-1): -- noise points, no coherent topic --
+Cluster 0: ai, says, new, announces, china, quarter, earnings, results
+Cluster 1: faruqi, investigates claims, behalf investors, claims behalf, faruqi faruqi, faruqi llp, llp investigates, behalf
+Cluster 2: sold shares, recent sec, insider sold, according recent, worth according, shares worth, sec filing, sold
+
+===== HIERARCHICAL =====
+Cluster 0: ai, says, new, announces, china, earnings, trump, data
+Cluster 1: reg, plc, shares, transaction shares, net asset, asset value, transaction, asset
+Cluster 2: faruqi, investigates claims, behalf investors, claims behalf, faruqi faruqi, faruqi llp, llp investigates, behalf
+Cluster 3: results, financial results, quarter, quarter financial, financial, announce quarter, announce, november

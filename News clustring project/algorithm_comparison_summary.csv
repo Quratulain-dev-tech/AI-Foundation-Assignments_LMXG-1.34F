@@ -1,0 +1,4 @@
+Algorithm,Optimal_Parameter,N_Clusters_Found,Silhouette_Score
+K-Means,k=2,2,0.23014224835908112
+DBSCAN,"eps=0.6035, min_samples=10",3,0.39541154354999464
+Hierarchical,k=4,4,0.311183331090084
